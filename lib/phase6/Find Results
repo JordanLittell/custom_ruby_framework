@@ -1,0 +1,13 @@
+Searching 27 files for "debugger"
+
+/Users/jordanlittell/Desktop/rails_lite/skeleton/lib/phase6/router.rb:
+ 
+    2  
+    3  module Phase6
+    .
+   66      # should return the route that matches this request
+   67      def match(req)
+   69          routes.each do |route| 
+   70              if route.matches?(req)
+
+2 matches in 1 file
